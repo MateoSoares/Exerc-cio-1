@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(255, 115, 0);
+}
+h1 {
+    text-align: center;
+    color: white;
+    font: 30pt Arial;
+}
+section {
+    background-color: white;
+    width: 500px;
+    margin: auto;
+    border-radius: 10px;
+    font: 20pt Arial;
+    height: 150px;
+    
+}
+div {
+    text-align: center;
+}
